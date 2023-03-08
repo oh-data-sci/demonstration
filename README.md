@@ -10,13 +10,15 @@ blabla
 # chapter 2
 blabla
 
-.
-├── LICENSE
-├── README.md
-├── data : data files
-├── notebooks: notebook files
-├── notes
-├── sql
-└── src
+```
 
+    .
+    ├── LICENSE
+    ├── README.md
+    ├── data : data files
+    ├── notebooks: notebook files
+    ├── notes
+    ├── sql
+    └── src
+```
 5 directories, 2 files
